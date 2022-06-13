@@ -32,7 +32,7 @@
 </p>
 
 ## Project List
- - [WinForm] [WinForm프로젝트]((https://github.com/Jitae9605/moogabox)
+ - [C# WinForm] [C# WinForm프로젝트]((https://github.com/Jitae9605/moogabox)
  - [WPF] [WPF프로젝트](https://github.com/spearstring/StudyWpf/tree/main/portfolio)
 <!--
 **spearstring/spearstring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
